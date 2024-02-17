@@ -1,5 +1,5 @@
 ## Live Link for the API:
-[Click here](https://news-app-2312.onrender.com)
+[NewsApi@himanshu](https://news-app-2312.onrender.com)
 
 # News App Express Server
 This server is an Express Application and is made to provide API support to the News App.
